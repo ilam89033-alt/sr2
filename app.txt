@@ -1,5 +1,8 @@
+Hello from main
+menu greeting accept
 Hello
 promo banner
 Hello from main
 login form
 client-side validation
+clean: B
