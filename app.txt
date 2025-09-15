@@ -1,3 +1,2 @@
 Hello from main
-footer section
-header section
+menu greeting accept
