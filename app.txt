@@ -1,5 +1,6 @@
 Hello from main
 menu greeting accept
+login form
+client-side validation
 Hello
-
 clean: B
