@@ -1,2 +1,5 @@
 Hello from main
 menu greeting accept
+Hello
+
+clean: B
