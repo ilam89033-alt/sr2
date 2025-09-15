@@ -1,2 +1,5 @@
 Hello
 promo banner
+Hello from main
+login form
+client-side validation
